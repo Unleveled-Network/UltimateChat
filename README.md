@@ -1,5 +1,5 @@
 ![logo](https://media-elerium.cursecdn.com/attachments/123/595/uchat.png)  
-Ultimate and advanced Chat for Spigot, Sponge and BungeeCoord
+Ultimate and advanced Chat for Spigot, Sponge, BungeeCoord
 
 ## Available versions:
 Spigot: [https://www.spigotmc.org/resources/uchat.23767/](https://www.spigotmc.org/resources/uchat.23767/)  
