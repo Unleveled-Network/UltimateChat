@@ -147,6 +147,6 @@
         </plugins>
     </build>
     <properties>
-        <spongeVersion>7.3.0</spongeVersion>
+        <spongeVersion>7.4.0</spongeVersion>
     </properties>
 </project>
